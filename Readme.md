@@ -5,9 +5,9 @@
 ## 🚀 About Me
 
 
-🔭 I am currently training in a Full Stack development Bootcamp with Factoria F5 (850 hours).
+🔭 I'm currently training in a Full Stack development Bootcamp with Factoria F5 (850 hours).
 
-🌱 I’m currently learning JavaScript.
+🌱 I’m learning JavaScript.
 
 🎨 Artist, I create expressionist art in my free time.
 

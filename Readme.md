@@ -1,2 +1,45 @@
-Hi 👋, I'm Laura García Castelao.
-🔭 I am currently training in a Full Stack development Bootcamp with FactoriaF5 (850 hours)
+
+# Welcome, I'm Laura Castelao 👋
+
+
+## 🚀 About Me
+
+
+🔭 I am currently training in a Full Stack development Bootcamp with Factoria F5 (850 hours).
+
+🌱 I’m currently learning JavaScript.
+
+🎨 Artist, I create expressionist art in my free time.
+
+🫀 Passionate about code, design and videogames.
+
+🗣️ Creative mind in constant learning.
+
+💬 Ask me about any questions.
+
+📫 How to reach me.
+
+Email: lauragarciacastelao@hotmail.com
+
+
+## Tech Stack
+
+**Client:** Bootstrap
+
+**Server:** Node
+
+
+## Optimizations  
+
+
+Accessibility
+
+
+
+## 🛠 Skills
+HTML
+
+CSS
+
+SASS
+

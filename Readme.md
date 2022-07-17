@@ -22,11 +22,7 @@
 Email: lauragarciacastelao@hotmail.com
 
 
-## Tech Stack
 
-**Client:** Bootstrap
-
-**Server:** Node
 
 
 ## Optimizations  

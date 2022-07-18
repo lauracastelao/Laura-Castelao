@@ -25,7 +25,7 @@ Email: lauragarciacastelao@hotmail.com
 
 
 
-## Optimizations  
+## Optimizations 👥
 
 
 Accessibility

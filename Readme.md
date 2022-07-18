@@ -19,7 +19,7 @@
 
 📫 How to reach me.
 
-Email: lauragarciacastelao@hotmail.com
+
 
 
 

@@ -7,7 +7,7 @@
 
 🔭 I'm currently training in a Full Stack development Bootcamp with Factoria F5 (850 hours).
 
-🌱 I’m learning PHP.
+🌱 I’m learning Laravel.
 
 🎨 Artist, I create expressionist art in my free time.
 

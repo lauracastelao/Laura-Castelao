@@ -18,7 +18,7 @@
 💬 Ask me about any questions.
 
 📫 How to reach me.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
 

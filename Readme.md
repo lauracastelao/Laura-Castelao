@@ -42,5 +42,6 @@ Accessibility
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/tailwind.svg" alt="tailwind"></a>
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-
+</code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</div>
 <br>

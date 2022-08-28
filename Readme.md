@@ -18,8 +18,8 @@
 💬 Ask me about any questions.
 
 📫 How to reach me.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<a href="[https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 <img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
 
 

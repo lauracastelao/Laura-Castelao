@@ -1,5 +1,6 @@
 
-# Welcome, I'm Laura Castelao 👋
+# Welcome, I'm Laura Castelao 👋 
+<img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
 
 
 ## 🚀 About Me
@@ -20,7 +21,7 @@
 📫 How to reach me.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
+
 
 
 

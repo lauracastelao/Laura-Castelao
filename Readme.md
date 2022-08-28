@@ -19,7 +19,8 @@
 
 📫 How to reach me.
 
-<a href="[https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+<a href="https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />linkedin</a>
+
 <img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
 
 

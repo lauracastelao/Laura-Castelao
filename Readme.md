@@ -20,7 +20,7 @@
 📫 How to reach me.
 
 
-<img height=90px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
+<img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
 
 
 

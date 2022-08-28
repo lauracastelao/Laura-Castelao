@@ -19,8 +19,7 @@
 
 📫 How to reach me.
 
-<a href="https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />linkedin</a>
-
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
 
 
@@ -45,5 +44,5 @@ Accessibility
 <img  src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg">
 </div>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/laura-garc%C3%ADa-castelao-569572234/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+
 

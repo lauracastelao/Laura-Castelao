@@ -45,4 +45,4 @@ Accessibility
 <img  src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg">
 </div>
 <br>
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+![Dino] (https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)

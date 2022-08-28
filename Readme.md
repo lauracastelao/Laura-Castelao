@@ -20,7 +20,7 @@
 📫 How to reach me.
 
 
-
+![image] (https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true)
 
 
 

@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 
-🔭 I'm currently training in a Full Stack development Bootcamp with Factoria F5 (850 hours).
+🔭 I completed a Full Stack development Bootcamp with Factoria F5 (850 hours).
 
 🌱 I’m learning Vanilla Javascript/Vue/Springboot-Java
 

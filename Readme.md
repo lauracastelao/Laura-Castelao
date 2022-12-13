@@ -1,6 +1,10 @@
 
 # Welcome, I'm Laura Castelao 👋 
-<img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
+   <divalign="center>
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
+   </div
+
 
 
 ## 🚀 About Me

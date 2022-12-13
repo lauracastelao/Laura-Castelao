@@ -1,9 +1,9 @@
 
 # Welcome, I'm Laura Castelao 👋 
-   <divalign="center>
+  
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    <img height=100px  src= "https://github.com/lauracastelao/image/blob/main/giphy.gif?raw=true" />
-   </div
+
 
 
 
